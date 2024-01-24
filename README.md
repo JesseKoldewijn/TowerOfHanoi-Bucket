@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> tbd
+> Just a fun bucket of experimental implementations of the Tower of Hanoi in different programming languages.
 
 ## Install
 
