@@ -6,9 +6,8 @@
 
 ## Demo
 
-<a href="https://hanoi-ts.vercel.app" style="color: white; display: flex; align-items: center; gap: .5rem;">
+<a href="https://hanoi-ts.vercel.app">
     <img src="https://hanoi-ts.vercel.app/vite.svg" alt="Demo Url" />
-    Click here to open the demo
 </a>
 
 ## Install
