@@ -4,6 +4,13 @@
 
 > This is my Typescript implementation of the Tower of Hanoi algorithm.
 
+## Demo
+
+<a href="https://hanoi-ts.vercel.app" style="color: white; display: flex; align-items: center; gap: .5rem;">
+    <img src="https://hanoi-ts.vercel.app/vite.svg" alt="Demo Url" />
+    Click here to open the demo
+</a>
+
 ## Install
 
 ```sh
